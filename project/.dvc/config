@@ -1,7 +1,7 @@
 [core]
     remote = remote
 [cache]
-    dir = ../../cache
+    dir = ../../new-cache
     shared = group
     type = symlink
 ['remote "remote"']
