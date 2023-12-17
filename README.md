@@ -56,6 +56,6 @@ ls -lah ds/a.txt
 ```
 
 # References
-[1] https://dvc.org/doc/use-cases/fast-data-caching-hub
-[2] https://dvc.org/doc/command-reference/cache
-[3] https://dvc.org/doc/user-guide/how-to/share-a-dvc-cache
+- [1] https://dvc.org/doc/use-cases/fast-data-caching-hub
+- [2] https://dvc.org/doc/command-reference/cache
+- [3] https://dvc.org/doc/user-guide/how-to/share-a-dvc-cache
