@@ -1,0 +1,8 @@
+[core]
+    remote = remote
+[cache]
+    dir = ../../cache
+    shared = group
+    type = symlink
+['remote "remote"']
+    url = ../../remote
